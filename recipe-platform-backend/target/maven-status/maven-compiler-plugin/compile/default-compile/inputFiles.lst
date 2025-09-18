@@ -1,0 +1,14 @@
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\config\SecurityConfig.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\config\CorsConfig.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\web\RecipeController.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\model\Review.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\repo\RecipeRepository.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\util\DataLoader.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\model\Like.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\repo\LikeRepository.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\repo\ReviewRepository.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\RecipePlatformApplication.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\web\UserController.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\repo\UserRepository.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\model\Recipe.java
+C:\Projects\recipe-platform\recipe-platform-backend\src\main\java\com\flavorshare\model\User.java

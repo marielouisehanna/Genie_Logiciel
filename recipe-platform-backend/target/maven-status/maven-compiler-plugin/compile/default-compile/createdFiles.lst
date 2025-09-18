@@ -1,0 +1,16 @@
+com\flavorshare\model\Recipe$Difficulty.class
+com\flavorshare\repo\UserRepository.class
+com\flavorshare\model\Recipe$Category.class
+com\flavorshare\util\DataLoader.class
+com\flavorshare\web\UserController.class
+com\flavorshare\RecipePlatformApplication.class
+com\flavorshare\repo\ReviewRepository.class
+com\flavorshare\model\Like.class
+com\flavorshare\repo\RecipeRepository.class
+com\flavorshare\model\Review.class
+com\flavorshare\model\User.class
+com\flavorshare\config\SecurityConfig.class
+com\flavorshare\config\CorsConfig.class
+com\flavorshare\web\RecipeController.class
+com\flavorshare\model\Recipe.class
+com\flavorshare\repo\LikeRepository.class
